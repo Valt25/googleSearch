@@ -2,30 +2,30 @@
 
 To install this solution, you must have python 3+, virtualenv for python 3+  tools installed.
 
-At first you need to clone this repository with command: # git clone https://github.com/Valt25/googleSearch.git
+At first you need to clone this repository with command: `git clone https://github.com/Valt25/googleSearch.git`
 
-Then go in appeared folder. `# cd googleSearch`
+Then go in appeared folder. `cd googleSearch`
 
-Now you have to create virtual environment: `# virtualenv venv`
+Now you have to create virtual environment: `virtualenv venv`
 
-Then activate venv: `# source venv/bin/activate`
+Then activate venv: `source venv/bin/activate`
 
-Now you have to install 3-rd party libraries: `# pip install -r requirements.txt`
+Now you have to install 3-rd party libraries: `pip install -r requirements.txt`
 
 And now you are ready to work. Of course all scripts in folder with project must have permissions to execute script and read specified files(look further).
 
 
 # Working
 
-The main file is manage.py. To run it: `# python manage.py`
+The main file is manage.py. To run it: `python manage.py`
 
 It requires to specify working mode and other parameters.
 
-The first mode is creating index from document set, you can do it via create_index argument: `# python manage.py create_index documents`
+The first mode is creating index from document set, you can do it via create_index argument: `python manage.py create_index documents`
 
 The last argument is path to directory with document set, it is optional. By default it is folder `documents` in root project directory.
 
-The second mode is searching. You can run it: `# python manage.py search query`
+The second mode is searching. You can run it: `python manage.py search query`
 
 Where query is path to file, where search query is located.
 
