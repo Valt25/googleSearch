@@ -67,6 +67,6 @@ Also I have copied and modified code from next [github repository](https://githu
 
 ![index](https://image.ibb.co/eMOwuF/image.png)
 
-![searching](https://image.ibb.co/eMOwuF/image.png)
+![searching](https://image.ibb.co/f3kLMv/image.png)
 
-![query](https://image.ibb.co/f3kLMv/image.png)
+![query](https://image.ibb.co/fp5RuF/image.png)
