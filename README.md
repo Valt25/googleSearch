@@ -66,3 +66,7 @@ Also I have copied and modified code from next [github repository](https://githu
 # Screenshots
 
 ![index](https://image.ibb.co/eMOwuF/image.png)
+
+![searching](https://image.ibb.co/eMOwuF/image.png)
+
+![query](https://image.ibb.co/f3kLMv/image.png)
