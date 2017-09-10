@@ -53,3 +53,12 @@ Query allow using NOT, OR, AND operations. In query it have to be in form LOGNOT
 
 Queries support not-AND notation. So 'digital computing' means 'digital LOGAND computing'. In every place where operator is missing, LOGAND would be appeared
 
+# Design
+
+I use distinct packages for distinct features. Packeage for creating index, and the other one for searching(parsing, processing).
+
+# References
+
+In this solution [NLTK](http://www.nltk.org/) python library was used. Because i did not think, that I am expected to write own stemmers, lemmatizers, tokeniers.
+
+Also I have copied and modified code from next [github repository](https://github.com/spyrant/boolean-retrieval-engine).
