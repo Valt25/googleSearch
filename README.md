@@ -62,3 +62,7 @@ I use distinct packages for distinct features. Packeage for creating index, and 
 In this solution [NLTK](http://www.nltk.org/) python library was used for NLP issues. Because i did not think, that I am expected to write own stemmers, lemmatizers, tokeniers.
 
 Also I have copied and modified code from next [github repository](https://github.com/spyrant/boolean-retrieval-engine)( @github/spyrant ). I used part of this code for parsing boolean retrieval queries.
+
+# Screenshots
+
+![index](https://image.ibb.co/eMOwuF/image.png)
