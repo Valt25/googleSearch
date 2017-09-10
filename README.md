@@ -22,6 +22,7 @@ The main file is manage.py. To run it: `python manage.py`
 It requires to specify working mode and other parameters.
 
 The first mode is creating index from document set, you can do it via create_index argument:
+
  `python manage.py create_index documents`
 
 The last argument is path to directory with document set, it is optional. By default it is folder `documents` in root project directory.
